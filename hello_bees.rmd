@@ -10,4 +10,5 @@ this is a test repo
 flowers <- 3+5
 rose <- 7+9
 tulip <- 5*6
+dandelion <- c("7", "5", "48")
 ```
