@@ -9,4 +9,5 @@ this is a test repo
 ```{r}
 flowers <- 3+5
 rose <- 7+9
+tulip <- 5*6
 ```
