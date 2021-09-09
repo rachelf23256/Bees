@@ -1,0 +1,1 @@
+This folder contains any plots, figures, and graphs found in the manuscript, presentations, etc.
